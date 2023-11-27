@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69619236.css",
+    "main.js": "/static/js/main.c8124f1c.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/drinks_slider.jpg": "/static/media/drinks_slider.35e8d3d1db6943b301c6.jpg",
+    "static/media/biscuit_slider.jpg": "/static/media/biscuit_slider.99e4738351d54730a104.jpg",
+    "static/media/veg_slider.jpg": "/static/media/veg_slider.ae04d487b8d4d1e06651.jpg",
+    "static/media/fruit_slider.jpg": "/static/media/fruit_slider.6d6b19c34e70e78e69aa.jpg",
+    "static/media/reg.PNG": "/static/media/reg.b4a7beae06abf31c54a0.PNG",
+    "static/media/chocolate_slider.jpg": "/static/media/chocolate_slider.aec4ce8e11ef2637af9e.jpg",
+    "static/media/login.PNG": "/static/media/login.543404fbd3f96ece1d39.PNG",
+    "static/media/about.jpg": "/static/media/about.87634ad6bcc89316a07e.jpg",
+    "static/media/register.PNG": "/static/media/register.741b041f5caf33deb08a.PNG",
+    "static/media/contact.jpg": "/static/media/contact.2850fc4225bbabb10f06.jpg",
+    "static/media/logo.jpg": "/static/media/logo.4c38da35ffaafa690840.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.69619236.css.map": "/static/css/main.69619236.css.map",
+    "main.c8124f1c.js.map": "/static/js/main.c8124f1c.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69619236.css",
+    "static/js/main.c8124f1c.js"
+  ]
+}
